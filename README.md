@@ -12,7 +12,7 @@ A simple calendar application that allows a user to save events for each hour of
 
 
 ## Application
-To deploy application click ![here.]()
+To deploy application click [here.](https://jmotto.github.io/Daily-Planner/)
 
 ![image of work day scheduler](assets/img/workdaySchedule.png)
 
